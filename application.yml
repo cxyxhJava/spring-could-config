@@ -1,16 +1,4 @@
-
-spring:
-  application:
-    name: config-server-dev
-  profiles:
-    active: dev
----
-spring:
-  application:
-    name: config-server-test
-  profiles:
-    active: test    
-    
+test: 1
     
     
     
