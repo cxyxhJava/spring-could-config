@@ -1,4 +1,4 @@
-test: config-client-test
+test: config-client-dev
     
     
     
